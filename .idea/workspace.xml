@@ -6,161 +6,9 @@
     </option>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f78e6fa5-c439-47ed-89d6-3be118d1f328" name="Default" comment="Init">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FIX/com/susico/codegen/GenFromXML.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/cache.properties.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/.gradle/2.2/taskArtifacts/cache.properties.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Trader/.gradle/2.2/taskArtifacts/cache.properties.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/fileHashes.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/.gradle/2.2/taskArtifacts/fileHashes.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Trader/.gradle/2.2/taskArtifacts/fileHashes.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/fileSnapshots.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/.gradle/2.2/taskArtifacts/fileSnapshots.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Trader/.gradle/2.2/taskArtifacts/fileSnapshots.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/XL/fix-40-standard-original.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FIX/FIXSpec/XL/fix-40-standard-original.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/XL/fix-41-standard-30th-june-1999-errata.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FIX/FIXSpec/XL/fix-41-standard-30th-june-1999-errata.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/XL/fix-42-standard-1st-may-2001-errata.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FIX/FIXSpec/XL/fix-42-standard-1st-may-2001-errata.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/XL/fix-43-standard-20th-sept-2002-errata.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FIX/FIXSpec/XL/fix-43-standard-20th-sept-2002-errata.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/XL/fix-44-standard-18th-june-2003-errata.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FIX/FIXSpec/XL/fix-44-standard-18th-june-2003-errata.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/XL/fix-50-standard-original.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FIX/FIXSpec/XL/fix-50-standard-original.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/XL/fix-50-standard-service-pack-1-original.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FIX/FIXSpec/XL/fix-50-standard-service-pack-1-original.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/XL/fix-50-standard-service-pack-2-original.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FIX/FIXSpec/XL/fix-50-standard-service-pack-2-original.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/XL/fix-session-protocol-fixt-11-version-11-errata.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FIX/FIXSpec/XL/fix-session-protocol-fixt-11-version-11-errata.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Trader/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/XL/itch-example-1.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FIX/FIXSpec/XL/itch-example-1.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/outputFileStates.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/.gradle/2.2/taskArtifacts/outputFileStates.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Trader/.gradle/2.2/taskArtifacts/outputFileStates.bin" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\sirin_000\IdeaProjects\Trader\out\production\FIX\script$_run_closure1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FIX/script.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/taskArtifacts.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/.gradle/2.2/taskArtifacts/taskArtifacts.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Trader/.gradle/2.2/taskArtifacts/taskArtifacts.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/QF/COPYRIGHT.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/QF/COPYRIGHT.xsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/FIX.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/Fix8/FIX40.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/QF/FIX40.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/Fix8/FIX41.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/QF/FIX41.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/Fix8/FIX42.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/QF/FIX42.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/TransFIX/FIX42.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/TransFIX/FIX42.xsd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/Fix8/FIX42PERF.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/Fix8/FIX42UTEST.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/Fix8/FIX43.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/QF/FIX43.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/Fix8/FIX44.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/QF/FIX44.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/Fix8/FIX50.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/QF/FIX50.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/Fix8/FIX50SP1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/QF/FIX50SP1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/Fix8/FIX50SP2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/QF/FIX50SP2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/Fix8/FIXT11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/QF/FIXT11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/groovy/com/susico/codegen/GenFromXML.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_groovy_groovy_all_2_4_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/Fix8/QUICKFIX-LICENCE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Trader/Trader.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Trader/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/cache.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/.gradle/2.2/taskArtifacts/cache.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Trader/.gradle/2.2/taskArtifacts/cache.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/JSON/fix-40-standard-original.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FIX/FIXSpec/JSON/fix-40-standard-original.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/JSON/fix-41-standard-30th-june-1999-errata.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FIX/FIXSpec/JSON/fix-41-standard-30th-june-1999-errata.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/JSON/fix-42-standard-1st-may-2001-errata.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FIX/FIXSpec/JSON/fix-42-standard-1st-may-2001-errata.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/JSON/fix-43-standard-20th-sept-2002-errata.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FIX/FIXSpec/JSON/fix-43-standard-20th-sept-2002-errata.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/JSON/fix-44-standard-18th-june-2003-errata.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FIX/FIXSpec/JSON/fix-44-standard-18th-june-2003-errata.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/JSON/fix-50-standard-original.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FIX/FIXSpec/JSON/fix-50-standard-original.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/JSON/fix-50-standard-service-pack-1-original.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FIX/FIXSpec/JSON/fix-50-standard-service-pack-1-original.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/JSON/fix-50-standard-service-pack-2-original.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FIX/FIXSpec/JSON/fix-50-standard-service-pack-2-original.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/JSON/fix-session-protocol-fixt-11-version-11-errata.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FIX/FIXSpec/JSON/fix-session-protocol-fixt-11-version-11-errata.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/Fix8/fix_4.0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/QF/fix_4.0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FIX/FIXSpec/Fix8/fix_4.0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FIX/FIXSpec/QF/fix_4.0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/Fix8/fix_4.1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/QF/fix_4.1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FIX/FIXSpec/Fix8/fix_4.1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FIX/FIXSpec/QF/fix_4.1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/Fix8/fix_4.2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/QF/fix_4.2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FIX/FIXSpec/Fix8/fix_4.2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FIX/FIXSpec/QF/fix_4.2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/Fix8/fix_4.3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/QF/fix_4.3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FIX/FIXSpec/Fix8/fix_4.3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FIX/FIXSpec/QF/fix_4.3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/Fix8/fix_4.4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/QF/fix_4.4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FIX/FIXSpec/Fix8/fix_4.4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FIX/FIXSpec/QF/fix_4.4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/Fix8/fix_5.0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/QF/fix_5.0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FIX/FIXSpec/Fix8/fix_5.0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FIX/FIXSpec/QF/fix_5.0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/Fix8/fix_5.0_sp1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/QF/fix_5.0_sp1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FIX/FIXSpec/Fix8/fix_5.0_sp1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FIX/FIXSpec/QF/fix_5.0_sp1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/Fix8/fix_5.0_sp2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/QF/fix_5.0_sp2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FIX/FIXSpec/Fix8/fix_5.0_sp2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FIX/FIXSpec/QF/fix_5.0_sp2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/Fix8/fixt_session_1.1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/QF/fixt_session_1.1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FIX/FIXSpec/Fix8/fixt_session_1.1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FIX/FIXSpec/QF/fixt_session_1.1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Trader/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/gradlew.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Trader/gradlew.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/gradlew" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Trader/gradlew" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/JSON/itch-example-1.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/FIX/FIXSpec/JSON/itch-example-1.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/groovy/script.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/settings.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    <list default="true" id="f78e6fa5-c439-47ed-89d6-3be118d1f328" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Trader.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -233,12 +81,25 @@
       <file leaf-file-name="script.groovy" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FIX/src/main/groovy/script.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9638889">
-              <caret line="31" column="65" selection-start-line="31" selection-start-column="65" selection-end-line="31" selection-end-column="65" />
+            <state vertical-scroll-proportion="0.44444445">
+              <caret line="20" column="59" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
               <folding>
                 <element signature="e#0#33#0" expanded="true" />
               </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="25" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="markdown-preview-editor">
+            <state />
           </provider>
         </entry>
       </file>
@@ -494,6 +355,7 @@
         <option value="$PROJECT_DIR$/FIX/src/main/groovy/com/susico/codegen/GenFromXML.groovy" />
         <option value="$PROJECT_DIR$/FIX/src/main/resources/TransFIX/FIX42.xml" />
         <option value="$PROJECT_DIR$/FIX/src/main/groovy/script.groovy" />
+        <option value="$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/README.md" />
       </list>
     </option>
   </component>
@@ -662,34 +524,8 @@
               <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Trader" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FIX" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FIXSpec" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="XL" />
+              <option name="myItemId" value="QF" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -712,40 +548,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FIXSpec" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Trader" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FIX" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FIXSpec" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Fix8" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1218,6 +1020,13 @@
       <option name="number" value="Default" />
       <updated>1434612888499</updated>
     </task>
+    <task id="LOCAL-00001" summary="Init">
+      <created>1434712845632</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1434712845632</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1239,7 +1048,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3298791" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3298791" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298791" sideWeight="0.49699247" order="12" side_tool="false" content_ui="tabs" />
@@ -1550,10 +1359,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/FIX/src/main/resources/FIXSpec/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="25" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="markdown-preview-editor">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/FIX/src/main/groovy/script.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9638889">
-          <caret line="31" column="65" selection-start-line="31" selection-start-column="65" selection-end-line="31" selection-end-column="65" />
+        <state vertical-scroll-proportion="0.44444445">
+          <caret line="20" column="59" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
           <folding>
             <element signature="e#0#33#0" expanded="true" />
           </folding>
