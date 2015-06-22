@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CodecSpec/CodecSpec.iml" filepath="$PROJECT_DIR$/CodecSpec/CodecSpec.iml" />
       <module fileurl="file://$PROJECT_DIR$/FIX/FIX.iml" filepath="$PROJECT_DIR$/FIX/FIX.iml" />
       <module fileurl="file://$PROJECT_DIR$/Trader/Trader.iml" filepath="$PROJECT_DIR$/Trader/Trader.iml" />
     </modules>

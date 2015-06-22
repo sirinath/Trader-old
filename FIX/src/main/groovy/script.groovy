@@ -18,6 +18,25 @@ mod ${fix.header[0].@msgcat} {
 
 println header
 
+fix.messages[0].children().each {
+    println it.@name
+}
+
+println()
+
+fix.header[0].children().each {
+    println it.@name
+}
+
+println()
+
+fix.trailer[0].children().each {
+    println it.@name
+}
+
+println()
+
+
 fix.breadthFirst().findAll({ it.@msgcat != null }).groupBy({ it.@msgcat }).each {
     println it.key
     it.value.each {
